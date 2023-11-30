@@ -1,0 +1,251 @@
+Title,Year,Duration,Rating_Category,Ratings,Total_Votes
+The Shawshank Redemption,1994,142.0,18+,9.3,2800000.0
+The Godfather,1972,175.0,18+,9.2,2000000.0
+The Dark Knight,2008,152.0,R,9.0,2800000.0
+The Godfather: Part II,1974,202.0,18+,9.0,1300000.0
+12 Angry Men,1957,96.0,SU,9.0,841000.0
+Schindler's List,1993,195.0,R,9.0,1400000.0
+The Lord of the Rings: The Return of the King,2003,201.0,A,9.0,1900000.0
+Pulp Fiction,1994,154.0,17+,8.9,2200000.0
+The Lord of the Rings: The Fellowship of the Ring,2001,178.0,R,8.8,2000000.0
+"The Good, the Bad and the Ugly",1966,161.0,D,8.8,795000.0
+Forrest Gump,1994,142.0,21,8.8,2200000.0
+Fight Club,1999,139.0,D17+,8.8,2300000.0
+The Lord of the Rings: The Two Towers,2002,179.0,A,8.8,1700000.0
+Inception,2010,148.0,D,8.8,2500000.0
+Star Wars: Episode V - The Empire Strikes Back,1980,124.0,PG,8.7,1400000.0
+The Matrix,1999,136.0,18+,8.7,2000000.0
+GoodFellas,1990,145.0,17+,8.7,1200000.0
+One Flew Over the Cuckoo's Nest,1975,133.0,R,8.7,1100000.0
+Se7en,1995,127.0,21,8.6,1800000.0
+It's a Wonderful Life,1946,130.0,13+,8.6,482000.0
+Shichinin no samurai,1954,207.0,Not Rated,8.6,360000.0
+Interstellar,2014,169.0,R,8.7,2000000.0
+The Silence of the Lambs,1991,118.0,D,8.6,1500000.0
+Saving Private Ryan,1998,169.0,18+,8.6,1500000.0
+City of God,2002,130.0,R,8.6,787000.0
+Spider-Man: Across the Spider-Verse,2023,140.0,SU,8.7,299000.0
+Life Is Beautiful,1997,116.0,21,8.6,728000.0
+The Green Mile,1999,189.0,18+,8.6,1400000.0
+Star Wars,1977,121.0,13+,8.6,1400000.0
+Terminator 2: Judgment Day,1991,137.0,13+,8.6,1100000.0
+Back to the Future,1985,116.0,13+,8.5,1300000.0
+Spirited Away,2001,125.0,13+,8.6,819000.0
+The Pianist,2002,150.0,R,8.5,887000.0
+Psycho,1960,109.0,R,8.5,705000.0
+Parasite,2019,132.0,17+,8.5,904000.0
+Gladiator,2000,155.0,16+,8.5,1600000.0
+The Lion King,1994,88.0,PG,8.5,1100000.0
+Léon,1994,110.0,R,8.5,1200000.0
+American History X,1998,119.0,R,8.5,1200000.0
+The Departed,2006,151.0,R,8.5,1400000.0
+Whiplash,2014,106.0,16+,8.5,946000.0
+The Prestige,2006,130.0,17+,8.5,1400000.0
+The Usual Suspects,1995,106.0,R,8.5,1100000.0
+Hotaru no haka,1988,89.0,Not Rated,8.5,299000.0
+Seppuku,1962,133.0,Not Rated,8.6,65000.0
+Casablanca,1942,102.0,PG,8.5,595000.0
+Intouchables,2011,112.0,R,8.5,906000.0
+Modern Times,1936,87.0,G,8.5,254000.0
+Nuovo Cinema Paradiso,1988,155.0,PG,8.5,276000.0
+Once Upon a Time in the West,1968,166.0,PG-13,8.5,344000.0
+Rear Window,1954,112.0,PG,8.5,512000.0
+Alien,1979,117.0,17+,8.5,928000.0
+City Lights,1931,87.0,G,8.5,193000.0
+Apocalypse Now,1979,147.0,R,8.4,697000.0
+Django Unchained,2012,165.0,21+,8.5,1700000.0
+Memento,2000,113.0,R,8.4,1300000.0
+Raiders of the Lost Ark,1981,115.0,PG,8.4,1000000.0
+WALL·E,2008,98.0,SU,8.4,1200000.0
+Oppenheimer,2023,180.0,13+,8.5,507000.0
+Das Leben der Anderen,2006,137.0,R,8.4,404000.0
+Sunset Blvd.,1950,110.0,Passed,8.4,232000.0
+Paths of Glory,1957,88.0,Approved,8.4,208000.0
+Avengers: Infinity War,2018,149.0,13+,8.4,1200000.0
+The Shining,1980,146.0,21,8.4,1100000.0
+The Great Dictator,1940,125.0,G,8.4,234000.0
+Witness for the Prosecution,1957,116.0,Approved,8.4,134000.0
+Spider-Man: Into the Spider-Verse,2018,117.0,SU,8.4,641000.0
+Aliens,1986,137.0,17+,8.4,748000.0
+Inglourious Basterds,2009,153.0,17+,8.4,1500000.0
+The Dark Knight Rises,2012,164.0,R,8.4,1800000.0
+American Beauty,1999,122.0,21,8.3,1200000.0
+Dr,1964,95.0,PG,8.4,510000.0
+Oldboy,2003,120.0,17+,8.4,617000.0
+Coco,2017,105.0,SU,8.4,565000.0
+Amadeus,1984,160.0,PG,8.4,420000.0
+Toy Story,1995,81.0,SU,8.3,1000000.0
+Das Boot,1981,149.0,Not Rated,8.4,260000.0
+Braveheart,1995,178.0,21,8.3,1100000.0
+Avengers: Endgame,2019,181.0,13+,8.4,1200000.0
+Joker,2019,122.0,17+,8.4,1400000.0
+Princess Mononoke,1997,134.0,13+,8.3,420000.0
+Good Will Hunting,1997,126.0,17+,8.3,1000000.0
+Kimi no na wa.,2016,106.0,13+,8.4,304000.0
+Once Upon a Time in America,1984,229.0,R,8.3,370000.0
+Tengoku to Jigoku,1963,143.0,Not Rated,8.4,51000.0
+3 Idiots,2009,170.0,13+,8.4,422000.0
+Singin' in the Rain,1952,103.0,R,8.3,255000.0
+Capernaum,2018,126.0,13+,8.4,101000.0
+Requiem for a Dream,2000,102.0,17+,8.3,881000.0
+Come and See,1985,142.0,Not Rated,8.4,92000.0
+Toy Story 3,2010,103.0,SU,8.3,876000.0
+Star Wars: Episode VI - Return of the Jedi,1983,131.0,PG,8.3,1100000.0
+Eternal Sunshine of the Spotless Mind,2004,108.0,16+,8.3,1100000.0
+2001: A Space Odyssey,1968,149.0,R,8.3,704000.0
+Jagten,2012,115.0,R,8.3,354000.0
+Reservoir Dogs,1992,99.0,D,8.3,1100000.0
+Ikiru,1952,143.0,Not Rated,8.3,85000.0
+Lawrence of Arabia,1962,218.0,Approved,8.3,308000.0
+The Apartment,1960,125.0,Approved,8.3,192000.0
+Citizen Kane,1941,119.0,A,8.3,459000.0
+M,1931,117.0,Passed,8.3,165000.0
+North by Northwest,1959,136.0,Approved,8.3,341000.0
+Vertigo,1958,128.0,PG,8.3,419000.0
+Double Indemnity,1944,107.0,Passed,8.3,164000.0
+Amélie,2001,122.0,R,8.3,782000.0
+Scarface,1983,170.0,18+,8.3,893000.0
+Full Metal Jacket,1987,116.0,D,8.3,775000.0
+A Clockwork Orange,1971,136.0,X,8.3,865000.0
+Incendies,2010,131.0,R,8.3,192000.0
+Heat,1995,170.0,21,8.3,700000.0
+Up,2009,96.0,SU,8.3,1100000.0
+To Kill a Mockingbird,1962,129.0,Approved,8.3,328000.0
+Hamilton,2020,160.0,17+,8.3,108000.0
+The Sting,1973,129.0,PG,8.3,274000.0
+A Separation,2011,123.0,PG-13,8.3,254000.0
+Indiana Jones and the Last Crusade,1989,127.0,PG-13,8.2,796000.0
+Metropolis,1927,153.0,Not Rated,8.3,182000.0
+Die Hard,1988,132.0,20+,8.2,918000.0
+Like Stars on Earth,2007,162.0,PG,8.3,203000.0
+Snatch,2000,104.0,17+,8.2,892000.0
+Ladri di biciclette,1948,89.0,Not Rated,8.3,172000.0
+L.A,1997,138.0,21,8.2,605000.0
+Taxi Driver,1976,114.0,D,8.2,895000.0
+1917,2019,119.0,13+,8.2,650000.0
+Downfall,2004,156.0,R,8.2,369000.0
+Dangal,2016,161.0,13+,8.3,204000.0
+Per qualche dollaro in più,1965,132.0,R,8.2,269000.0
+Batman Begins,2005,140.0,D,8.2,1500000.0
+Top Gun: Maverick,2022,130.0,SU,8.3,642000.0
+Some Like It Hot,1959,121.0,Passed,8.2,279000.0
+The Kid,1921,68.0,Passed,8.2,132000.0
+The Wolf of Wall Street,2013,180.0,21+,8.2,1500000.0
+The Father,2020,97.0,13+,8.2,181000.0
+Green Book,2018,130.0,13+,8.2,543000.0
+All About Eve,1950,138.0,Passed,8.2,137000.0
+Judgment at Nuremberg,1961,179.0,Approved,8.3,83000.0
+The Truman Show,1998,103.0,21,8.2,1200000.0
+There Will Be Blood,2007,158.0,18+,8.2,625000.0
+Casino,1995,178.0,21+,8.2,550000.0
+Ran,1985,160.0,R,8.2,133000.0
+Shutter Island,2010,138.0,D,8.2,1400000.0
+Pan's Labyrinth,2006,118.0,R,8.2,693000.0
+Jurassic Park,1993,127.0,16+,8.2,1000000.0
+The Sixth Sense,1999,107.0,17+,8.2,1000000.0
+Unforgiven,1992,130.0,R,8.2,429000.0
+A Beautiful Mind,2001,135.0,17+,8.2,969000.0
+No Country for Old Men,2007,122.0,21,8.2,1000000.0
+The Treasure of the Sierra Madre,1948,126.0,Passed,8.2,130000.0
+Yôjinbô,1961,110.0,Not Rated,8.2,129000.0
+Kill Bill: Vol,2003,111.0,21+,8.2,1200000.0
+The Thing,1982,109.0,D,8.2,454000.0
+Monty Python and the Holy Grail,1975,91.0,PG,8.2,562000.0
+The Great Escape,1963,172.0,Approved,8.2,255000.0
+Finding Nemo,2003,100.0,SU,8.2,1100000.0
+Rashômon,1950,88.0,Not Rated,8.2,177000.0
+The Elephant Man,1980,124.0,PG,8.2,254000.0
+Chinatown,1974,130.0,R,8.2,342000.0
+Howl's Moving Castle,2004,119.0,7+,8.2,430000.0
+Dial M for Murder,1954,105.0,PG,8.2,185000.0
+Gone with the Wind,1939,238.0,Passed,8.2,328000.0
+V for Vendetta,2005,132.0,D,8.2,1200000.0
+Prisoners,2013,153.0,17+,8.1,780000.0
+Raging Bull,1980,129.0,R,8.1,372000.0
+"Lock, Stock and Two Smoking Barrels",1998,107.0,R,8.1,606000.0
+El Secreto De Sus Ojos,2009,129.0,R,8.2,219000.0
+Inside Out,2015,95.0,SU,8.1,762000.0
+Spider-Man: No Way Home,2021,148.0,SU,8.2,844000.0
+"Three Billboards Outside Ebbing, Missouri",2017,115.0,21,8.1,541000.0
+The Bridge on the River Kwai,1957,161.0,PG,8.1,230000.0
+Trainspotting,1996,93.0,21,8.1,714000.0
+Fargo,1996,98.0,R,8.1,708000.0
+Warrior,2011,140.0,13+,8.1,490000.0
+Catch Me If You Can,2002,141.0,16+,8.1,1100000.0
+Gran Torino,2008,116.0,R,8.1,803000.0
+Tonari no Totoro,1988,86.0,SU,8.1,366000.0
+Million Dollar Baby,2004,132.0,PG-13,8.1,711000.0
+Klaus,2019,96.0,7+,8.2,174000.0
+Harry Potter and the Deathly Hallows - Part 2,2011,130.0,13+,8.1,925000.0
+Bacheha-Ye aseman,1997,89.0,21,8.2,79000.0
+Blade Runner,1982,117.0,R,8.1,806000.0
+12 Years a Slave,2013,134.0,R,8.1,729000.0
+Before Sunrise,1995,101.0,R,8.1,331000.0
+The Grand Budapest Hotel,2014,99.0,17+,8.1,866000.0
+Ben-Hur,1959,212.0,G,8.1,249000.0
+The Gold Rush,1925,95.0,Passed,8.1,117000.0
+Barry Lyndon,1975,185.0,PG,8.1,179000.0
+Gone Girl,2014,149.0,R,8.1,1000000.0
+Hacksaw Ridge,2016,139.0,18+,8.1,574000.0
+In the Name of the Father,1993,133.0,R,8.1,184000.0
+On the Waterfront,1954,108.0,Approved,8.1,162000.0
+Memories of Murder,2003,131.0,Not Rated,8.1,207000.0
+The General,1926,78.0,Passed,8.1,96000.0
+The Deer Hunter,1978,183.0,D,8.1,355000.0
+Smultronstället,1957,91.0,17+,8.1,113000.0
+Relatos salvajes,2014,122.0,R,8.1,211000.0
+The Third Man,1949,104.0,Approved,8.1,179000.0
+Le salaire de la peur,1953,131.0,Not Rated,8.2,65000.0
+Dead Poets Society,1989,128.0,13+,8.1,528000.0
+Sherlock Jr.,1924,45.0,Passed,8.2,55000.0
+Mad Max: Fury Road,2015,120.0,16+,8.1,1100000.0
+"Monsters, Inc.",2001,92.0,SU,8.1,957000.0
+Mr,1939,129.0,Passed,8.1,120000.0
+Jaws,1975,124.0,PG,8.1,646000.0
+How to Train Your Dragon,2010,98.0,R13+,8.1,782000.0
+Mary and Max.,2009,92.0,Not Rated,8.1,184000.0
+Ford v Ferrari,2019,152.0,13+,8.1,444000.0
+Det sjunde inseglet,1957,96.0,17+,8.1,195000.0
+Room,2015,118.0,13+,8.1,442000.0
+The Big Lebowski,1998,117.0,R,8.1,844000.0
+Ratatouille,2007,111.0,R,8.1,797000.0
+Tôkyô monogatari,1953,136.0,Not Rated,8.1,67000.0
+Rocky,1976,120.0,PG,8.1,615000.0
+Hotel Rwanda,2004,121.0,D,8.1,367000.0
+Logan,2017,137.0,17+,8.1,810000.0
+Spotlight,2015,129.0,13+,8.1,493000.0
+Platoon,1986,120.0,D,8.1,431000.0
+La passion de Jeanne d'Arc,1928,110.0,Passed,8.1,59000.0
+The Terminator,1984,107.0,D,8.1,906000.0
+Jai Bhim,2021,164.0,16+,8.8,212000.0
+Before Sunset,2004,80.0,R,8.1,281000.0
+Rush,2013,123.0,R,8.1,503000.0
+Network,1976,121.0,R,8.1,167000.0
+The Exorcist,1973,122.0,D,8.1,445000.0
+The Best Years of Our Lives,1946,170.0,Approved,8.1,69000.0
+Stand by Me,1986,89.0,17+,8.1,431000.0
+La haine,1995,98.0,Not Rated,8.1,190000.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,143.0,17+,8.1,1200000.0
+The Wizard of Oz,1939,102.0,13+,8.1,420000.0
+The Incredibles,2004,115.0,R,8.0,786000.0
+Into the Wild,2007,148.0,21,8.1,647000.0
+Babam ve Oglum,2005,112.0,Not Rated,8.2,90000.0
+Hachi: A Dog's Tale,2009,93.0,G,8.1,303000.0
+To Be or Not to Be,1942,99.0,Passed,8.2,41000.0
+Ah-ga-ssi,2016,145.0,Not Rated,8.1,165000.0
+Groundhog Day,1993,101.0,17+,8.0,668000.0
+The Grapes of Wrath,1940,129.0,Passed,8.1,98000.0
+La battaglia di Algeri,1966,121.0,Not Rated,8.1,64000.0
+Amores perros,2000,154.0,R,8.1,250000.0
+The Sound of Music,1965,172.0,21,8.1,252000.0
+Rebecca,1940,130.0,Approved,8.1,144000.0
+Cool Hand Luke,1967,127.0,GP,8.1,186000.0
+The Iron Giant,1999,86.0,PG,8.1,219000.0
+Pather Panchali,1955,125.0,Not Rated,8.2,37000.0
+It Happened One Night,1934,105.0,Passed,8.1,110000.0
+The Help,2011,146.0,13+,8.1,483000.0
+Les quatre cents coups,1959,99.0,Not Rated,8.1,125000.0
+Aladdin,1992,90.0,G,8.0,453000.0
+Persona,1966,85.0,Not Rated,8.1,128000.0
+Dances with Wolves,1990,181.0,PG-13,8.0,284000.0
+Drishyam,2015,163.0,13+,8.2,92000.0
